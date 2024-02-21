@@ -3,10 +3,6 @@
   "description": "收集一些自己脚本用到的图标",
   "icons": [
     {
-      "name": "Swiftgram.png",
-      "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/Swiftgram.png"
-    },
-    {
       "name": "unnamed.png",
       "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/unnamed.png"
     }
