@@ -3,6 +3,10 @@
   "description": "收集一些自己脚本用到的图标",
   "icons": [
     {
+      "name": "pixiv.png",
+      "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/pixiv.png"
+    },
+    {
       "name": "StockX.png",
       "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/StockX.png"
     },
@@ -25,6 +29,10 @@
     {
       "name": "TikTok.png",
       "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/TikTok.png"
+    },
+    {
+      "name": "哔哩哔哩.png",
+      "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/哔哩哔哩.png"
     },
     {
       "name": "unnamed.png",
