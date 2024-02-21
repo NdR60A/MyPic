@@ -3,16 +3,56 @@
   "description": "收集一些自己脚本用到的图标",
   "icons": [
     {
+      "name": "StockX.png",
+      "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/StockX.png"
+    },
+    {
       "name": "Blue Archive.png",
       "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/Blue Archive.png"
+    },
+    {
+      "name": "X.png",
+      "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/X.png"
+    },
+    {
+      "name": "Apple.png",
+      "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/Apple.png"
+    },
+    {
+      "name": "Emby.png",
+      "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/Emby.png"
+    },
+    {
+      "name": "TikTok.png",
+      "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/TikTok.png"
     },
     {
       "name": "unnamed.png",
       "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/unnamed.png"
     },
     {
+      "name": "Microsoft.png",
+      "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/Microsoft.png"
+    },
+    {
+      "name": "Netflix.png",
+      "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/Netflix.png"
+    },
+    {
       "name": "Swiftgram 2.png",
       "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/Swiftgram 2.png"
+    },
+    {
+      "name": "网易云音乐.png",
+      "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/网易云音乐.png"
+    },
+    {
+      "name": "pixiv-iOS-512x512.png",
+      "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/pixiv-iOS-512x512.png"
+    },
+    {
+      "name": "YouTube.png",
+      "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/YouTube.png"
     }
   ]
 }
