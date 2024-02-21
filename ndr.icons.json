@@ -3,12 +3,12 @@
   "description": "收集一些自己脚本用到的图标",
   "icons": [
     {
-      "name": "Pixiv（blue）.png",
-      "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/Pixiv（blue）.png"
-    },
-    {
       "name": "unnamed.png",
       "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/unnamed.png"
+    },
+    {
+      "name": "Pixiv.png",
+      "url": "https://raw.githubusercontent.com/NdR60A/MyPic/main/icon/Pixiv.png"
     }
   ]
 }
